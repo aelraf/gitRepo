@@ -16,6 +16,9 @@ void main()
 	for(i=0;i<n;i++)
 	{
 		printf("Linia ",i);
+		printf("Wszystko zostaje w rodzinie");
+		printf("A te zmiany to kosmetyczne");
+		printf("Teraz kolejne zmiany, których nie będzie na p[ierwszej gałęzi");
 	}	
 
 
