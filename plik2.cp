@@ -7,7 +7,9 @@ void main()
 {
 	int n;
 	int i;
-	
+
+	printf("Zmiana w pliku z iss01");	
+
 	printf("Podaj ilość lini:\n");
 	scanf(n);
 
